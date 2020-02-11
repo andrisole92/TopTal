@@ -10,9 +10,12 @@
       <change afterPath="$PROJECT_DIR$/iTopTal/src/app/interface/IProfile.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/iTopTal/src/app/interface/ITrip.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/iTopTal/src/app/services/IRestService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToptalApp" beforeDir="false" afterPath="$PROJECT_DIR$/ToptalApp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToptalApp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ToptalApp/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToptalApp/src/main/java/andre/toptal/demo/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToptalApp/src/main/java/andre/toptal/demo/controller/AuthController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToptalApp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ToptalApp/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iTopTal/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iTopTal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iTopTal/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/src/app/app-routing.module.ts" afterDir="false" />
@@ -164,7 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581036337824</updated>
       <workItem from="1581036340833" duration="10212000" />
-      <workItem from="1581186036751" duration="14481000" />
+      <workItem from="1581186036751" duration="14924000" />
     </task>
     <servers />
   </component>
