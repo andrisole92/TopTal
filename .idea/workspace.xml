@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4512f28e-ed38-42fe-bcc8-d657a92e48a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/iTopTal/src/app/BaseComponent.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iTopTal/src/app/Config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iTopTal/src/app/data/GenericActions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iTopTal/src/app/data/trips/TripsState.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iTopTal/src/app/data/users/UsersState.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iTopTal/src/app/interface/IProfile.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iTopTal/src/app/interface/ITrip.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iTopTal/src/app/services/IRestService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToptalApp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ToptalApp/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToptalApp/src/main/java/andre/toptal/demo/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ToptalApp/src/main/java/andre/toptal/demo/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToptalApp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ToptalApp/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/src/app/services/photo.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/src/app/services/photo.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/src/app/tab1/tab1.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/src/app/tab1/tab1.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/src/app/tab1/tab1.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/src/app/tab1/tab1.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/src/app/tab1/tab1.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/src/app/tab1/tab1.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/src/app/tab2/tab2.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/src/app/tab2/tab2.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/src/app/tab2/tab2.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/src/app/tab2/tab2.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/src/app/tab3/tab3.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/src/app/tab3/tab3.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/src/app/tab3/tab3.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/src/app/tab3/tab3.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/src/app/tab3/tab3.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/src/app/tab3/tab3.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iTopTal/src/app/tabs/tabs.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/iTopTal/src/app/tabs/tabs.page.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/iTopTal" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XSP5Hoo2Rp9yvaF3MrKAb4Z9WO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="GoToKeyword.includeLibraries" value="false" />
+    <property name="GoToNamespace.includeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/iTopTal/src/app/interface" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/rTopTal/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/iTopTal/src/app/interface" />
+      <recent name="$PROJECT_DIR$/iTopTal/src/app/data/profile" />
+      <recent name="$PROJECT_DIR$/iTopTal/src/data" />
+      <recent name="$PROJECT_DIR$/TopTalClientNG/src/app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/iTopTal/src/app/data/users" />
+      <recent name="$PROJECT_DIR$/iTopTal/src/app" />
+      <recent name="$PROJECT_DIR$/iTopTal/src/app/services" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4512f28e-ed38-42fe-bcc8-d657a92e48a5" name="Default Changelist" comment="" />
+      <created>1581036337824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581036337824</updated>
+      <workItem from="1581036340833" duration="10212000" />
+      <workItem from="1581186036751" duration="14481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
